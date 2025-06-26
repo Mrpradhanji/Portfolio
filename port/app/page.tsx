@@ -32,7 +32,7 @@ export default function Home() {
       <SectionDivider />
       <About />
       <SectionDivider />
-      <Skills />
+     
       <SectionDivider />
       <PersonalTimeline />
       <SectionDivider />

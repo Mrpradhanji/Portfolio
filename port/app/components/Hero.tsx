@@ -70,8 +70,8 @@ export default function Hero({ children }: PropsWithChildren) {
         />
       </motion.svg>
       <div className="card px-10 py-12 flex flex-col items-center text-center shadow-xl backdrop-blur-lg border border-white/10">
-        <Image src="/window.svg" alt="Profile" width={120} height={120} className="rounded-full mb-6 border-4 border-cyan-400 shadow-lg" />
-        <h1 className="text-5xl font-extrabold mb-3 text-white">Your Name</h1>
+        <Image src="/Image/Rohit_Image--.jpeg" alt="Profile" width={120} height={120} className="rounded-full mb-6 border-4 border-cyan-400 shadow-lg" />
+        <h1 className="text-5xl font-extrabold mb-3 text-white">Rohit Singh</h1>
         {children}
         <span className="inline-block bg-cyan-400/20 text-cyan-300 px-4 py-1 rounded-full text-lg font-semibold mb-4">Frontend Developer</span>
         <p className="max-w-xl text-slate-200 mb-8">I build modern, responsive web applications with a focus on great user experience and performance.</p>
